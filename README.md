@@ -3,7 +3,7 @@ Leap MotionとOculus Riftでユニティちゃんにふれる
 
 Leap MotionとOculus Riftでユニティちゃんにふれます:)
 
-[ScreenShot](https://raw.githubusercontent.com/kaorun55/LeapOculusUnityPro/master/result.png)
+![ScreenShot](https://raw.githubusercontent.com/kaorun55/LeapOculusUnityPro/master/result.png)
 
 ## 環境
 
