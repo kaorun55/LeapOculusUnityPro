@@ -1,21 +1,21 @@
-Leap Motion‚ÆOculus Rift‚Åƒ†ƒjƒeƒB‚¿‚á‚ñ‚É‚Ó‚ê‚é
+Leap Motionã¨Oculus Riftã§ãƒ¦ãƒ‹ãƒ†ã‚£ã¡ã‚ƒã‚“ã«ãµã‚Œã‚‹
 ==================
 
-Leap Motion‚ÆOculus Rift‚Åƒ†ƒjƒeƒB‚¿‚á‚ñ‚É‚Ó‚ê‚Ü‚·:)
+Leap Motionã¨Oculus Riftã§ãƒ¦ãƒ‹ãƒ†ã‚£ã¡ã‚ƒã‚“ã«ãµã‚Œã¾ã™:)
 
-[ScreenShot](https://raw.githubusercontent.com/kaorun55/UnityChan-meet-Kinect/master/Screenshot.png)
+[ScreenShot](https://raw.githubusercontent.com/kaorun55/LeapOculusUnityPro/master/result.png)
 
-## ŠÂ‹«
+## ç’°å¢ƒ
 
  * Unity Pro 4.5
  * [Oculus Passthrough](https://developer.leapmotion.com/downloads/unity?ref=vr)
- * •Ê“rLeap Motion ƒ‰ƒ“ƒ^ƒCƒ€‚âAOculus Riftƒ‰ƒ“ƒ^ƒCƒ€‚ª•K—v‚Å‚·
+ * åˆ¥é€”Leap Motion ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ã‚„ã€Oculus Riftãƒ©ãƒ³ã‚¿ã‚¤ãƒ ãŒå¿…è¦ã§ã™
 
-##ƒ‰ƒCƒZƒ“ƒX
+##ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 
- * ƒ†ƒjƒeƒB‚¿‚á‚ñ‚Íu[ƒ†ƒjƒeƒB‚¿‚á‚ñƒ‰ƒCƒZƒ“ƒX](http://unity-chan.com/)v‚É‚Äg—p‚µ‚Ä‚¢‚Ü‚·
+ * ãƒ¦ãƒ‹ãƒ†ã‚£ã¡ã‚ƒã‚“ã¯ã€Œ[ãƒ¦ãƒ‹ãƒ†ã‚£ã¡ã‚ƒã‚“ãƒ©ã‚¤ã‚»ãƒ³ã‚¹](http://unity-chan.com/)ã€ã«ã¦ä½¿ç”¨ã—ã¦ã„ã¾ã™
 
-![ScreenShot](https://raw.githubusercontent.com/kaorun55/UnityChan-meet-Kinect/master/Light_Silhouette.png)
+![ScreenShot](https://raw.githubusercontent.com/kaorun55/LeapOculusUnityPro/master/Light_Silhouette.png)
 
-–{ƒRƒ“ƒeƒ“ƒc‚ÍAw[ƒ†ƒjƒeƒB‚¿‚á‚ñƒ‰ƒCƒZƒ“ƒXğ€](http://unity-chan.com/download/license.html)x‚ÉŠî‚Ã‚¢‚ÄŒöŠJE”z•z‚³‚ê‚é‚à‚Ì‚Å‚·B–{ƒRƒ“ƒeƒ“ƒc‚ğ‚²—˜—p‚³‚ê‚éê‡‚ÍAƒ†ƒjƒeƒBEƒeƒNƒmƒƒW[ƒYEƒWƒƒƒpƒ“‡“¯‰ïĞ‚ª’è‚ß‚éw[ƒLƒƒƒ‰ƒNƒ^[—˜—p‚ÌƒKƒCƒhƒ‰ƒCƒ“](http://unity-chan.com/download/guideline.html)x‚ğ‚¨ç‚è‚¢‚½‚¾‚­•K—v‚ª‚ ‚è‚Ü‚·B
+æœ¬ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã¯ã€ã€[ãƒ¦ãƒ‹ãƒ†ã‚£ã¡ã‚ƒã‚“ãƒ©ã‚¤ã‚»ãƒ³ã‚¹æ¡é …](http://unity-chan.com/download/license.html)ã€ã«åŸºã¥ã„ã¦å…¬é–‹ãƒ»é…å¸ƒã•ã‚Œã‚‹ã‚‚ã®ã§ã™ã€‚æœ¬ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’ã”åˆ©ç”¨ã•ã‚Œã‚‹å ´åˆã¯ã€ãƒ¦ãƒ‹ãƒ†ã‚£ãƒ»ãƒ†ã‚¯ãƒãƒ­ã‚¸ãƒ¼ã‚ºãƒ»ã‚¸ãƒ£ãƒ‘ãƒ³åˆåŒä¼šç¤¾ãŒå®šã‚ã‚‹ã€[ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼åˆ©ç”¨ã®ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³](http://unity-chan.com/download/guideline.html)ã€ã‚’ãŠå®ˆã‚Šã„ãŸã ãå¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
